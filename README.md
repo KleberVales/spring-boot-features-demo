@@ -40,7 +40,7 @@ Usando Gradle
 
 ```mermaid
 flowchart TD
-    A[Início da Aplicação] --> B[SpringApplication.run()]
+    A[Início da Aplicação] --> B[SpringApplication.run]
     B --> C[Spring Boot Auto-configuration]
     C --> D[Carregar Beans e Contexto]
     D --> E[Registrar HelloController]
