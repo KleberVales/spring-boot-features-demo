@@ -26,3 +26,7 @@ spring-boot-features-demo/
          └── SpringBootFeaturesDemoApplicationTests.java
 
 ```
+
+## ▶️ Como Executar
+
+
