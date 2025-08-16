@@ -46,7 +46,7 @@ flowchart TD
     D --> E[Registrar HelloController]
     E --> F[Subir Tomcat embutido na porta 8081]
     F --> G[Aplicação Pronta para Requisições]
-    G --> H[GET /hello → "Hello, Spring Boot!"]
+    G --> H[GET /hello → Hello, Spring Boot!]
     G --> I[GET /actuator/health → Status]
     G --> J[GET /actuator/info → Informações do App]
 ```
