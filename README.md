@@ -9,3 +9,20 @@
   - Adicionar Spring Boot Actuator e testar endpoints de monitoramento (/actuator/health, /actuator/info)
  
 ## 📂 Estrutura do Projeto
+
+```text
+
+spring-boot-features-demo/
+ ├── build.gradle.kts
+ ├── settings.gradle.kts
+ └── src
+     ├── main
+     │   ├── java/com/example/features
+     │   │   ├── SpringBootFeaturesDemoApplication.java
+     │   │   └── controller/HelloController.java
+     │   └── resources
+     │       └── application.properties
+     └── test/java/com/example/features
+         └── SpringBootFeaturesDemoApplicationTests.java
+
+```
