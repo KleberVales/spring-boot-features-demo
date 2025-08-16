@@ -28,5 +28,12 @@ spring-boot-features-demo/
 ```
 
 ## ▶️ Como Executar
+Usando Gradle
+
+```bash
+
+./gradlew bootRun
+
+```
 
 
