@@ -36,4 +36,6 @@ Usando Gradle
 
 ```
 
+## 📊 Fluxo de Inicialização do Spring Boot
+
 
